@@ -3,6 +3,12 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#FBF4ED",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,

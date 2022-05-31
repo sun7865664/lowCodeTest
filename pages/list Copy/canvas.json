@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "list",
-    "slug": "list",
+    "name": "list Copy",
+    "slug": "list-copy",
     "layouts": [
       {
         "viewMode": false,
@@ -737,7 +737,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "list_Query1",
+              "id": "list Copy_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -762,7 +762,7 @@
           "nameInput"
         ],
         "validOnPageLoadActions": true,
-        "id": "list",
+        "id": "list Copy",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -774,5 +774,5 @@
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "6294287db4c51656bfeb053b_6294287db4c51656bfeb053d"
+  "gitSyncId": "6294287db4c51656bfeb053b_6295bef6b4c51656bfeb798d"
 }

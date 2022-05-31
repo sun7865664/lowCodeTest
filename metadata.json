@@ -4,16 +4,34 @@
   "pageOrder": [
     "list",
     "page1",
-    "Page2"
+    "Page2",
+    "list Copy"
   ],
   "publishedPageOrder": [
     "list",
     "page1",
-    "Page2"
+    "Page2",
+    "list Copy"
   ],
   "publishedDefaultPageName": "list",
   "unpublishedDefaultPageName": "list",
   "invisibleActionFields": {
+    "list Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "list Copy_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "list Copy_Query1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "list Copy_Query2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "list_JSObject1.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
